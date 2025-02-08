@@ -1,8 +1,7 @@
 print "Hello world!!"
 Good Night!
 Hello!!!
-<<<<<<< HEAD
 PRIVET!!!
-=======
-ZDRAVSTVUI
->>>>>>> new-api
+Привет, Я Вова!
+Как Ваши дела?
+
